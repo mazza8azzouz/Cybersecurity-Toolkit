@@ -3,10 +3,15 @@ This repository contains a collection of cybersecurity tools, scripts, and resou
 
 # Features:
 ✅ Penetration testing scripts (network scanning, enumeration, exploitation)
+
 ✅ Password cracking and hashing utilities
+
 ✅ Malware analysis and reverse engineering tools
+
 ✅ Encryption and cryptography implementations
+
 ✅ Web security testing (SQL Injection, XSS, CSRF)
+
 ✅ Log analysis and forensic investigation scripts
 
 #  Tools & Scripts Included:
